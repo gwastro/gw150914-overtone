@@ -4,12 +4,12 @@ Badri Krishnan<sup>7, 2, 3</sup>, Alex B. Nielsen<sup>5</sup>, Alexander H. Nitz
 
 <sub>1. [Max-Planck-Institut für Gravitationsphysik (Albert-Einstein-Institut), Am Mühlenberg 1, D-14476 Potsdam, Germany](https://www.aei.mpg.de/astro-cosmo-rel)</sub>  
 <sub>2. [Max-Planck-Institut für Gravitationsphysik (Albert-Einstein-Institut), Callinstraße 38, D-30167 Hannover, Germany](http://www.aei.mpg.de/obs-rel-cos)</sub>  
-<sub>3. Leibniz Universitat Hannover, D-30167 Hannover, Germany</sub>  
-<sub>4. Department of Physics, University of Massachusetts, Dartmouth, MA 02747, USA</sub>
-<sub>5. Department of Mathematics and Physics, University of Stavanger, NO-4036 Stavanger, Norway</sub>
-<sub>6. Niels Bohr International Academy, Niels Bohr Institute, Blegdamsvej 17, 2100 Copenhagen, Denmark</sub>
-<sub>7. Institute for Mathematics, Astrophysics and Particle Physics, Radboud University, Heyendaalseweg 135, 6525 AJ Nijmegen, The Netherlands</sub>
-<sub>8. Department of Physics, Syracuse University, Syracuse, NY 13244, USA</sub>
+<sub>3. Leibniz Universität Hannover, D-30167 Hannover, Germany</sub>  
+<sub>4. Department of Physics, University of Massachusetts, Dartmouth, MA 02747, USA</sub>   
+<sub>5. Department of Mathematics and Physics, University of Stavanger, NO-4036 Stavanger, Norway</sub>   
+<sub>6. Niels Bohr International Academy, Niels Bohr Institute, Blegdamsvej 17, 2100 Copenhagen, Denmark</sub>   
+<sub>7. Institute for Mathematics, Astrophysics and Particle Physics, Radboud University, Heyendaalseweg 135, 6525 AJ Nijmegen, The Netherlands</sub>   
+<sub>8. Department of Physics, Syracuse University, Syracuse, NY 13244, USA</sub>   
 <sub>9. Institute for Gravitational Wave Astronomy and School of Physics and Astronomy, University of Birmingham, Edgbaston, Birmingham B15 2TT, United Kingdom</sub>
 
 ## Introduction ##
