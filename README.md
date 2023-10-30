@@ -18,9 +18,7 @@ We revisit the recent debate on the evidence for an overtone in the black hole r
 
 A preprint version of the paper is [available on arxiv](https://arxiv.org/abs/2310.xxxxx).
 
-This release contains the posterior files and configuration files for [PyCBC Inference](https://pycbc.org). 
-
-An example to launch a PyCBC Inference run:
+This release contains the posterior files and configuration files for [PyCBC Inference](https://pycbc.org). An example to launch a PyCBC Inference run:
 
 ```
 OMP_NUM_THREADS=1 \
