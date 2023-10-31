@@ -16,7 +16,7 @@ Badri Krishnan<sup>7, 2, 3</sup>, Alex B. Nielsen<sup>5</sup>, Alexander H. Nitz
 
 We revisit the recent debate on the evidence for an overtone in the black hole ringdown of GW150914. By gating and inpainting the data, we discard the contamination from earlier parts of the gravitational wave signal before ringdown. This enables the parameter estimation to be con- ducted in the frequency domain, which is mathematically equivalent to the time domain method. We keep the settings as similar as possible to the previous studies by Cotesta et al. [1] and Isi et al. [2, 3] which yielded conflicting results on the Bayes factor of the overtone. We examine the spectral contents of the matched-filtering in the frequency domain, and propose a convergence test to assess the validity of an overtone model. Our results find the Bayes factors for the overtone fall within 10 and 26 around a range of times centered at the best-fit merger time of GW150914, which supports the existence of an overtone in agreement with the conclusions of Isi et al. [2, 3]. Our work contributes to the understanding of how various methods affect the statistical significance of overtones.
 
-A preprint version of the paper is [available on arxiv](https://arxiv.org/abs/2310.xxxxx).
+A preprint version of the paper is [available on arxiv](https://arxiv.org/abs/2310.19645).
 
 This release contains the posterior files and configuration files for [PyCBC Inference](https://pycbc.org). An example to launch a PyCBC Inference run:
 
