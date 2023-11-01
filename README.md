@@ -39,7 +39,14 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unite
 We encourage use of these data in derivative works. If you use the material provided here, please cite the paper using the reference:
 
 ```
-@article{Wang:2023xxx,
-
+@article{Wang:2023xsy,
+    author = "Wang, Yi-Fan and Capano, Collin D. and Abedi, Jahed and Kastha, Shilpa and Krishnan, Badri and Nielsen, Alex B. and Nitz, Alexander H. and Westerweck, Julian",
+    title = "{A frequency-domain perspective on GW150914 ringdown overtone}",
+    eprint = "2310.19645",
+    archivePrefix = "arXiv",
+    primaryClass = "gr-qc",
+    reportNumber = "LIGO-P2300340",
+    month = "10",
+    year = "2023"
 }
 ```
