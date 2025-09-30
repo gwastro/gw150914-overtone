@@ -1,4 +1,4 @@
-# A Frequency-domain Perspective on GW150914 Ringdown Overtone
+# Gating-and-inpainting perspective on GW150914 ringdown overtone: Understanding the data analysis systematics
 **[Yi-Fan Wang (王一帆)](https://yi-fan-wang.github.io)<sup>1, 2, 3</sup>, Collin D. Capano<sup>4, 2, 3</sup>, Jahed Abedi<sup>5, 2, 3</sup>, Shilpa Kastha<sup>6, 2, 3</sup>,
 Badri Krishnan<sup>7, 2, 3</sup>, Alex B. Nielsen<sup>5</sup>, Alexander H. Nitz<sup>8</sup>, and Julian Westerweck<sup>2, 3, 9</sup>**
 
@@ -39,9 +39,9 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unite
 We encourage use of these data in derivative works. If you use the material provided here, please cite the paper using the reference:
 
 ```
-@article{Wang:2023xsy,
+@article{Wang:2023ljx,
     author = "Wang, Yi-Fan and Capano, Collin D. and Abedi, Jahed and Kastha, Shilpa and Krishnan, Badri and Nielsen, Alex B. and Nitz, Alexander H. and Westerweck, Julian",
-    title = "{A frequency-domain perspective on GW150914 ringdown overtone}",
+    title = "{A gating-and-inpainting perspective on GW150914 ringdown overtone: understanding the data analysis systematics}",
     eprint = "2310.19645",
     archivePrefix = "arXiv",
     primaryClass = "gr-qc",
